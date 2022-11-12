@@ -1,4 +1,4 @@
-# Devexpress-Ticari_Otomasyon
+# Devexpress Ticari Otomasyon
 [TR] C# Devexpress ile SQL Tabanlı Ticari Otomasyon Henüz Tam Olarak Bitmiş Değildir. Projenin Tanıtım Videosuna Bu Linkten Ulaşabilirsiniz: https://youtu.be/p_KIa1dgB7c
 
 [EN] C Sharp based on Microsoft SQL Server Finance Automation with Devexpress. Not Complete yet. You can use that preview Link: https://youtu.be/p_KIa1dgB7c
